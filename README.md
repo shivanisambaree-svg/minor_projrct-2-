@@ -26,7 +26,9 @@ SpendDNA is a Python-based data processing and financial analytics tool designed
 
 ---
 
-## sample out of MY_STATEMENT
-<img width="1301" height="794" alt="report" src="https://github.com/user-attachments/assets/dc2e5439-23c9-44a3-ba79-ddb515b2b77b" />
+## Sample out of MY_STATEMENT
+<img width="1251" height="784" alt="report new" src="https://github.com/user-attachments/assets/56f21246-4aba-4090-93d8-b20f418879e1" />
+<img width="1413" height="675" alt="report new 1" src="https://github.com/user-attachments/assets/0d59e199-9e9e-431e-aef9-3588a308585a" />
+
 
 
