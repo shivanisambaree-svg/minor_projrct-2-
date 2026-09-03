@@ -1,4 +1,4 @@
-# SpendDNA - Personal Financial Transaction Analyzer
+# SpendDNA - your wallet's year-end story. 
 
 SpendDNA is a Python-based data processing and financial analytics tool designed to parse, categorize, and analyze raw bank or UPI transaction statements (such as PhonePe CSV exports). It transforms unorganized statement data into actionable financial insights, spending habits, anomaly flags, and predictive forecasts.
 
